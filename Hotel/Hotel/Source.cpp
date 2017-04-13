@@ -2,15 +2,15 @@
 
 int main()
 {
-
+	
 	int OneNight = 100;
 	int ServiceCharge = 35;
 	int TelephoneTime = .25;
 	double GuestsStayed;
 	double nightsStayed;
 	double TotalCost;
-
-
+	double response;
+	
 
 	std::cout << "Welcome to my hotel calculator that shows how much cash you're racking in" << std::endl;
 
@@ -30,4 +30,13 @@ int main()
 	std::cout << "\n"  << GuestsStayed  << " Guest stayed " << nightsStayed << " Nights at the hotel, with a $" <<ServiceCharge<< " Service charge and owe $" << TelephoneTime<< "For telephone time."  << std::endl;
 
 	std::cout << "They owe you this much money $" << TotalCost << std::endl;
+
+	std::cout << "Would you like calculate another hotel room charge? Press 1 to do so." << std::endl;
+	std::cin >> response;
+
+	do 
+	{
+		int main();
+	} while (response == 1);
+	
 }
