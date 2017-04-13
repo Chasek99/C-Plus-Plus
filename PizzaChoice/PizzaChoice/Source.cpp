@@ -6,7 +6,7 @@ int main()
 	int pizzaYes = 1, pizzaNo = 2, small = 1, medium = 2, large = 3, cheese = 1, sasuage = 2, bacon = 3;
 	int topping;
 	int pizzaSize;
-
+	int response;
 	std::cout << "Welcome to Chase and Zach's delgados pizzos shop. Where we make everything with hate! " << std::endl;
 
 	std::cout << "Would you like to order one of our amazing pizza's?" << std::endl;
@@ -69,6 +69,14 @@ int main()
 				{
 					std::cout << "Bacon, thats a amazing choice. You now owe me $24.99";
 				}
+
+				std::cout << "would you like to order another pizza??? press 1 to do so.";
+				std::cin >> response;
+
+				do
+				{
+					int main();
+				} while (response == 1);
 			}
 }
 
