@@ -1,0 +1,17 @@
+1.Lots of things would be difficult to program without loops, like food menus, for example in the delgados tacos we made it into a loop.
+if we didn't the user could only order one thing. 
+
+
+2.A advantage of a switch statement is that it can handle multiple selctions of numbers by passing control to the next switch statement. 
+Some disadvantages are that it can only handle intergers or a char as a variable.You can also not use logical operators.
+
+
+3. A for loop is used to repeat a certin block of code a set number of times. A while loop is used when the number of times we want to 
+run the block of code is not known. So you should use a while loop over a for loop when your asking a user what they want to order. 
+You wont know how much food that person might order so you use a while loop to continue to ask until they finsh their order. 
+
+
+4.My favorite game with a loop would have to be pac-man, the loop works by when you run out of lives it ask if you to play the game again.
+If you say yes the it runs through the game code again. 
+
+Chase Kress
