@@ -1,0 +1,10 @@
+1. You should write functions because they allow the structure of programs in segments of code  to perform individaul task making it aloy easier
+
+
+
+2.Arguments in a function are values that can be passed from one function to another, while parameters are a special variable used
+that refer to the data entered by the user.
+
+
+
+3. Yes you can have more than one return statement
