@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{914F1203-6852-49D2-AB6C-09A4F2324D0C}</ProjectGuid>
+    <ProjectGuid>{845DD7F2-0D40-4FA2-B974-9FCA3D730489}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>GrossPay</RootNamespace>
+    <RootNamespace>CelsiusToFahrenheit2</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
